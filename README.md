@@ -36,6 +36,10 @@
       <li><strong>Remix Icons</strong> – Beautiful vector-based icons</li>
     </ul>
   </section>
+  <p><strong>Live Demo</strong><br>
+🔗 <a href="https://sarahaasan.github.io/Interior-Design/#" target="_blank">Click here to view the Interior Design website</a></p>
+<hr>
+
 
 
 
